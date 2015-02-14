@@ -4,14 +4,16 @@
 package com.mycompany.fizzbuzz;
 
 /**
- * The ever class FizzBuzz problem
+ * The ever classic FizzBuzz problem
  * 
  * @author Colin
  *
  */
 public class FizzBuzz {
 
-
+	/**
+	 * Simple fizzbuzz version
+	 */
 	public static void fizzBuzzV1(){
 		
 		for(int i = 1; i <= 100; i++)
